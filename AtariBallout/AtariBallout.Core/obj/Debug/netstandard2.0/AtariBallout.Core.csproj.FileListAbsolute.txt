@@ -1,0 +1,10 @@
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\bin\Debug\netstandard2.0\AtariBallout.Core.deps.json
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\bin\Debug\netstandard2.0\AtariBallout.Core.dll
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\bin\Debug\netstandard2.0\AtariBallout.Core.pdb
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.csproj.AssemblyReference.cache
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.AssemblyInfoInputs.cache
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.AssemblyInfo.cs
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.csproj.CoreCompileInputs.cache
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.dll
+C:\Users\alonl\Desktop\AtariBallout\AtariBallout\AtariBallout.Core\obj\Debug\netstandard2.0\AtariBallout.Core.pdb

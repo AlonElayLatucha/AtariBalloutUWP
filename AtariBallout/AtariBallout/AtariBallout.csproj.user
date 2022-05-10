@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\alonl\Desktop\AtariBallout\Atari.png</Source>
+    <SmallTileSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</SmallTileSource>
+    <MediumTileSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</MediumTileSource>
+    <WideTileSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</WideTileSource>
+    <LargeTileSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</LargeTileSource>
+    <AppIconSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</AppIconSource>
+    <SplashScreenSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\alonl\Desktop\AtariBallout\Atari.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>
